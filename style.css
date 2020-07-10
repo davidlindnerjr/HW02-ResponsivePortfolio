@@ -1,0 +1,61 @@
+img{
+    width:300px;
+    height:300px;
+    border-radius: 20px;
+    border:5px solid #595959;
+}
+
+@media screen and (max-width:1000px){
+    img{
+        width:150px;
+        height:150px;
+    }
+}
+
+body{
+    background-color: #e6e6e6;
+    font-family:poppins;
+}
+
+a:hover{
+    text-decoration:none;
+    color:#e6e6e6;
+}
+
+
+.nav-style{
+    background-color:slategray;
+    color:white;
+}
+
+.my-nav{
+    background-color:#404040;
+    color:white;
+    text-align:start;
+}
+
+.my-container{
+    text-align:center;
+
+}
+
+.my-row{
+    text-align:center;
+    margin:30px;
+ 
+}
+
+.my-col{
+    margin-bottom:10px;
+    margin-top:10px;
+  
+}
+
+.custom-footer{
+    background-color:#595959;
+    color:white;
+    position:fixed; 
+    bottom:0px; 
+    padding-top:10px;  
+    padding-bottom:10px;
+}

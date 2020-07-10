@@ -1,0 +1,208 @@
+*{
+    margin:0 auto;
+    padding:0 auto;
+    border-style: border-box;
+}
+
+body{
+    background-color:#f2f2f2;
+}
+
+#reign-logo{
+    opacity:0.3; 
+    position:fixed; 
+    display:flex; 
+    text-align: center; 
+    margin-left:330px; 
+    margin-top:50px; 
+    width: 600px; 
+    height:600px; 
+    z-index: -1;
+}
+
+nav{
+    width:2000px;
+    background-color:#262626;
+    display:inline;
+    color:white;
+    position:fixed;
+    right:-825px;
+    left:-100px;
+    padding:20px;
+    text-align:center;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#title-li{
+    background-color: #262626;
+    display:inline;
+    color:white;
+    position:fixed;
+    left:20px;
+    list-style: none;
+}
+
+#nav-list{
+    background-color: #262626;
+    list-style:none;
+    display:inline;
+    cursor:pointer;
+    padding:20px;
+}
+
+#motto-div{
+    padding:80px;
+    padding-top:100px;
+    padding-bottom:60px;
+    text-align:center;
+    font-size:20px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+input{
+    text-align: center;
+    display:inline-block;
+    margin:10px;
+    padding:5px;
+}
+
+#email-textbox{
+    color:#737373;
+    width:200px;
+}
+
+#submit-bttn{
+    background-color: #ffd11a;
+    border-radius:2px;
+    border-style: none;
+    width: 120px;
+    height:30px;
+    box-shadow:2px 2px black;
+}
+
+form{
+    margin-left: auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+#content-div{
+    display:flex;
+    align-items:center;
+    text-align:center;
+}
+
+#bcaa-image{
+    width: 150px;
+    height:100px;
+    margin-left:375px;
+    margin-bottom:20px;
+}
+
+#bcaa-div{
+    font-size: 20px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-right:450px;
+}
+
+#natural-image{
+    width: 75px;
+    height:50px;
+    margin-left:410px;
+    margin-bottom:30px;
+}
+
+#natural-div{
+    font-size: 20px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-right:375px;
+    margin-bottom:30px;
+}
+
+#runner-image{
+    width: 80px;
+    height:70px;
+    margin-left:400px;
+    margin-bottom:40px;
+}
+
+#runner-div{
+    font-size: 20px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-right:510px;
+    margin-bottom:40px;
+}
+
+#brain-image{
+    width: 80px;
+    height:70px;
+    margin-left:400px;
+    margin-bottom:40px;
+}
+
+#brain-div{
+    font-size: 20px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-right:480px;
+    margin-bottom:40px;
+}
+
+#video-div{
+    display:flex; 
+    align-content: center;
+    padding:50px;
+}
+
+#flavor-div{
+    border: 2px solid black;
+    margin-top:35px;
+    margin-bottom:35px;
+    height:300px;
+    width:300px;
+    padding-top:20px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size:20px;
+    border-radius:5px;
+    background-color: #262626;
+}
+
+#inside-flavor-div{
+    background-color:white; 
+    height:253px; 
+    width:300px; 
+    border-radius:5px;
+    margin-top:15px;
+}
+
+#razzle-berry-pic{
+    height:200px; 
+    width:85px; 
+    margin:20px; 
+    -webkit-filter:drop-shadow(5px 5px 10px black);
+}
+
+#nav-link-dec{
+    color:white; 
+    text-decoration:none;
+}
+
+#flex{
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content:space-evenly;
+    margin-left:10%;
+    margin-right:10%;
+    font-family:poppins;
+}
+
+#item-flex{
+    display:flex;
+    align-items:flex-start;
+    text-align:center;
+    justify-content:flex-start;
+    margin-left:10%;
+    margin-right:10%;
+    font-family:poppins;
+    flex-direction: column;
+}
