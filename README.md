@@ -14,6 +14,12 @@
   
   * "index.html"
   
+  Linked to the deployed project:
+  
+  *  https://davidlindnerjr.github.io/HW02-ResponsivePortfolio
+  
+  
+  
 
 
 Copyright (c) 2020 David Lindner
