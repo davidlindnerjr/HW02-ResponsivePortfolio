@@ -18,9 +18,11 @@
   
   *  https://davidlindnerjr.github.io/HW02-ResponsivePortfolio
   
+  Screenshots:
   
-  
-
+  ![Screenshot (3)](https://user-images.githubusercontent.com/65383133/87201366-432a4680-c2b3-11ea-86a5-f3e05b518472.png)
+  ![Screenshot (4)](https://user-images.githubusercontent.com/65383133/87201369-46253700-c2b3-11ea-9b6d-1d105a9f8988.png)
+  ![Screenshot (5)](https://user-images.githubusercontent.com/65383133/87201374-47566400-c2b3-11ea-9ae5-b134f2f18782.png)
 
 Copyright (c) 2020 David Lindner
 
