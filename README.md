@@ -23,6 +23,10 @@
   ![Screenshot (3)](https://user-images.githubusercontent.com/65383133/87201366-432a4680-c2b3-11ea-86a5-f3e05b518472.png)
   ![Screenshot (4)](https://user-images.githubusercontent.com/65383133/87201369-46253700-c2b3-11ea-9b6d-1d105a9f8988.png)
   ![Screenshot (5)](https://user-images.githubusercontent.com/65383133/87201374-47566400-c2b3-11ea-9ae5-b134f2f18782.png)
+  ![Screenshot (7)](https://user-images.githubusercontent.com/65383133/87201812-322e0500-c2b4-11ea-8201-e9f96f46c5d6.png)
+  ![Screenshot (8)](https://user-images.githubusercontent.com/65383133/87201814-32c69b80-c2b4-11ea-81fa-212b63bd4f09.png)
+  ![Screenshot (9)](https://user-images.githubusercontent.com/65383133/87201816-32c69b80-c2b4-11ea-989f-72eed35d0625.png)
+
 
 Copyright (c) 2020 David Lindner
 
